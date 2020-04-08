@@ -1,0 +1,126 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Eduard\\Source\\Repos\\App1\\App1.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Eduard\\Source\\Repos\\App1\\App1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Eduard\\Source\\Repos\\App1\\App1.csproj",
+        "projectName": "App1",
+        "projectPath": "C:\\Users\\Eduard\\Source\\Repos\\App1\\App1.csproj",
+        "packagesPath": "C:\\Users\\Eduard\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Eduard\\Source\\Repos\\App1\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Eduard\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid90"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid90": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid90": {
+          "dependencies": {
+            "Birdie.Plugin.FirebasePushNotification": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "Xamarin.Android.Support.Annotations": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Android.Support.Compat": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Android.Support.Core.UI": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Android.Support.Core.Utils": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Android.Support.CustomTabs": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Android.Support.Design": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Android.Support.Fragment": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Android.Support.Media.Compat": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Android.Support.VersionedParcelable": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Android.Support.v4": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.5.2, )"
+            },
+            "Xamarin.Firebase.Analytics": {
+              "target": "Package",
+              "version": "[71.1630.0, )"
+            },
+            "Xamarin.Firebase.Auth": {
+              "target": "Package",
+              "version": "[71.1605.0, )"
+            },
+            "Xamarin.Firebase.Common": {
+              "target": "Package",
+              "version": "[71.1610.0, )"
+            },
+            "Xamarin.Firebase.Database": {
+              "target": "Package",
+              "version": "[71.1601.0, )"
+            },
+            "Xamarin.Firebase.Database.Connection": {
+              "target": "Package",
+              "version": "[71.1601.0, )"
+            },
+            "Xamarin.Firebase.Firestore": {
+              "target": "Package",
+              "version": "[71.1705.2, )"
+            },
+            "Xamarin.Firebase.Messaging": {
+              "target": "Package",
+              "version": "[71.1740.0, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}
